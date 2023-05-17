@@ -1,2 +1,2 @@
 # Data_structure_and_algorithms
-My very on resource for revision of Data Structures and Algorithm
+My very own resource for revision of data structures and algorithm in python
